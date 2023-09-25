@@ -1,0 +1,48 @@
+header{
+  width: 980px;
+  height:140px;
+  background-color: red;
+  border: 2px dashed black;
+  color: white;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+main{
+  width: 980px;
+  height:450px;
+  
+  border: 2px dashed black;
+  color: white;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+aside{
+  width: 270px;
+  height:450px;
+  background-color: red;
+  border: 2px dashed black;
+  color: white;
+  float:left;
+  margin-right:12px;
+
+}
+section{
+  width: 690px;
+  height:450px;
+  background-color: red;
+  border: 2px dashed black;
+  color: white;
+  float:left;
+}
+
+footer{
+  width: 980px;
+  height: 70px;
+  background-color: red;
+  border: 2px dashed black;
+  color: white;
+  margin-left:auto;
+  margin-right: auto;
+}
